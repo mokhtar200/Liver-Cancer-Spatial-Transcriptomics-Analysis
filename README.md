@@ -28,10 +28,6 @@ The analysis identifies spatially variable genes, clusters tissue regions based 
 6. **Visualization**:
    - Generate spatial maps for specific genes and clusters.
 
-## Outputs
-- **Top Spatially Variable Genes**: `top_spatial_genes.png`
-- **Cluster Visualization**: `spatial_clusters.png`
-- **Processed Metadata**: `metadata.csv`
 
 ## Requirements
 - R version >= 4.0.0
